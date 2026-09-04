@@ -3,8 +3,6 @@
 > UC Berkeley **CS61C — Great Ideas in Computer Architecture, Fall 2020**
 > 课程 Project 实现、实验记录与学习笔记。
 
-[中文](README.md)
-
 ---
 
 ## 项目简介
